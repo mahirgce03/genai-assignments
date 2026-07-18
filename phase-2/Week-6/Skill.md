@@ -29,7 +29,7 @@ postman request POST 'https://mahirgce03.atlassian.net//rest/api/3/search/jql' \
     "maxResults": 1
 }' \
   --auth-basic-username 'mahirgce03@gmail.com' \
-  --auth-basic-password 'ATATT3xFfGF0JOWV3sw0m9-oV7Cbx-UQkhh0MufWywrgOpV65eDIK3IUBHgU3L7NCMlm-u9HD-tCW9h7lQAJS8QceLDBys-Rp-3zOt_IaQrlPnBp1dSFDAQ8lQg9ETRXMNQWK1Rrt6cHS-GakU7URI-D-fXaErMzAmCmSFfsKE59UcQ3ctBBsIQ=E2856667'
+  --auth-basic-password 'ATATT3xFfGF0JOWV3sw0m9-oV7Cbx-UQkhh0MufWywrgOpV65eDIK3IUBHgU3L7NCMlm-u9HD-tCW9h7lQAJS8QceLDBys-Rp-3zOt_IaQrlPnBp1dSFDAQ8lQg9ETRXMNQWK1Rrt6cHS-GakU7URI-D-fXaErMzAmCmSFfsKE59UcQ3ctBBsIQ=E2856667<removed before u pass>'
 
   4. Strictly all values Story Title*, Description, Acceptance Criteria*, Additional Information fetches and populated in UI.
 
